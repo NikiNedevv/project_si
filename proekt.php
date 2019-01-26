@@ -117,6 +117,3 @@ if (!empty($_GET['cards'])) {
 ?>
 </body>
 </html>
-
-
-
