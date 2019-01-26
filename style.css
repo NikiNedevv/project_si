@@ -1,0 +1,43 @@
+body{
+   background-image: linear-gradient(to right, red , yellow);
+   margin:0;
+   padding: 0;
+   overflow: hidden;
+}
+
+#submit{
+	color: red;
+	background: white;
+	border-radius: 8px;
+	padding: 10px;
+	font-size: 20px;
+	/*margin-left: 100px;
+	margin-top: 150px;*/
+}
+
+
+#cards{
+	color: red;
+	background: white;
+	border-radius: 8px;
+	padding: 10px;
+	font-size: 20px;
+	/*margin-left: 150px;
+	margin-top: 150px;*/
+}
+
+p{
+	background-color: rgba(255, 255, 255, 0.1);
+	padding: 10px;
+}
+
+.success-pic{
+	width: 100vw;
+	max-height: 100vh;
+}
+
+.error{
+	text-align: center;
+	font-weight: bold;
+	color: #F00;
+}
